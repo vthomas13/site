@@ -3,11 +3,11 @@ html{
 }
 p{
 	font-size:20px;
-	color: #666666;
+	color: #ffffff;
 }
 body{
-	background-color: #FF2D2D;
-	color:#666666;
+	background-color: #666666;
+	color:#ffffff;
 	text-align:center;
 }
 h1{
@@ -16,13 +16,13 @@ h1{
 h2{
 	font-size: 16px;
 	font-weight: bolder;
-	color: #666666;
+	color: #ffffff;
 }
 .link-item{
 	margin-left:10px;
 	margin-right:10px;
 	display:inline-block;
-	color:#666666;
+	color:#ffffff;
 	text-decoration:none;
 	font-size: 14px;
 }
